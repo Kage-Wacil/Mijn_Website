@@ -1,0 +1,26 @@
+body {
+  color: #0468bf;
+  background-color: #0d0d0d;
+}
+
+nav,
+h1,
+h2,
+h3,
+h4 {
+  color: #04bf8a;
+}
+
+.bg-body-tertiary {
+  background-image: url("../Assets/Wb_03.jpg") !important;
+  background-size: cover;
+}
+
+.navbar .nav-link {
+  color: #04bf8a !important;
+}
+
+#Form {
+  background-image: url("../Assets/Wb_01.jpg") !important;
+  background-size: cover;
+}
